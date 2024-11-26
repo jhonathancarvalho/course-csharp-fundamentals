@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1c57fb10a4578e51","x":4,"y":-243,"width":96,"height":63,"type":"text","text":"C#\n"},
+		{"id":"a40b0a3d4517d728","x":-74,"y":360,"width":250,"height":60,"type":"text","text":"IL"},
+		{"id":"87e72ee5d51cbbc2","x":-74,"y":80,"width":250,"height":60,"type":"text","text":"Fortemente Tipada"},
+		{"id":"5a11998c472f7f3a","x":176,"y":-4,"width":250,"height":60,"type":"text","text":"Código Compilado"},
+		{"id":"55a445fba7103e32","x":-324,"y":-4,"width":250,"height":60,"type":"text","text":"Código Gerenciado"}
+	],
+	"edges":[
+		{"id":"fcb37b6b0d9b9187","fromNode":"1c57fb10a4578e51","fromSide":"bottom","toNode":"55a445fba7103e32","toSide":"top"},
+		{"id":"930600d21077a31a","fromNode":"1c57fb10a4578e51","fromSide":"bottom","toNode":"5a11998c472f7f3a","toSide":"top"},
+		{"id":"74a079ad4c04874e","fromNode":"1c57fb10a4578e51","fromSide":"bottom","toNode":"87e72ee5d51cbbc2","toSide":"top"},
+		{"id":"33adeb0f682089ce","fromNode":"55a445fba7103e32","fromSide":"bottom","toNode":"a40b0a3d4517d728","toSide":"top"},
+		{"id":"0184664f68ca6062","fromNode":"5a11998c472f7f3a","fromSide":"bottom","toNode":"a40b0a3d4517d728","toSide":"top"}
+	]
+}
