@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2b771c294bc8414c","type":"text","text":"Linguagem e Compiladores","x":-258,"y":-717,"width":258,"height":57,"color":"#8c00ff"},
+		{"id":"a529b5522585ca3c","type":"text","text":"Linguagem de alto nível","x":-584,"y":-516,"width":250,"height":60,"color":"#fa0000"},
+		{"id":"f2900b089199cb4e","type":"text","text":"Linguagem de baixo nível","x":65,"y":-521,"width":250,"height":60,"color":"#d2ec09"},
+		{"id":"e39ae46d7b5b2a06","type":"text","text":"Linguagem compilada","x":-860,"y":-340,"width":250,"height":60,"color":"#00ff33"},
+		{"id":"dfcd038eccc352d7","type":"text","text":"Linguagem interpretada","x":-584,"y":-340,"width":248,"height":55,"color":"#fce803"},
+		{"id":"f3eb9804aa95bf66","type":"text","text":"Linguagem Tipada","x":-281,"y":-344,"width":250,"height":60,"color":"#1100fa"}
+	],
+	"edges":[
+		{"id":"25b72156c4846642","fromNode":"2b771c294bc8414c","fromSide":"bottom","toNode":"a529b5522585ca3c","toSide":"top","color":"6"},
+		{"id":"ea82238440eabbd5","fromNode":"2b771c294bc8414c","fromSide":"bottom","toNode":"f2900b089199cb4e","toSide":"top","color":"6"},
+		{"id":"f0402b5ad5c170fb","fromNode":"a529b5522585ca3c","fromSide":"bottom","toNode":"e39ae46d7b5b2a06","toSide":"top","color":"5"},
+		{"id":"d7b5a80ad5a488f4","fromNode":"a529b5522585ca3c","fromSide":"bottom","toNode":"dfcd038eccc352d7","toSide":"top","color":"4"},
+		{"id":"9f6f15dcc6601156","fromNode":"a529b5522585ca3c","fromSide":"bottom","toNode":"f3eb9804aa95bf66","toSide":"top","color":"3"}
+	]
+}
