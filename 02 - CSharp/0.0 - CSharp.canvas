@@ -1,16 +1,17 @@
 {
 	"nodes":[
-		{"id":"1c57fb10a4578e51","x":4,"y":-243,"width":96,"height":63,"type":"text","text":"C#\n"},
-		{"id":"a40b0a3d4517d728","x":-74,"y":360,"width":250,"height":60,"type":"text","text":"IL"},
-		{"id":"87e72ee5d51cbbc2","x":-74,"y":80,"width":250,"height":60,"type":"text","text":"Fortemente Tipada"},
-		{"id":"5a11998c472f7f3a","x":176,"y":-4,"width":250,"height":60,"type":"text","text":"Código Compilado"},
-		{"id":"55a445fba7103e32","x":-324,"y":-4,"width":250,"height":60,"type":"text","text":"Código Gerenciado"}
+		{"id":"55a445fba7103e32","type":"text","text":"Código Gerenciado\n\nA Execução depende de um gerenciado, no caso é o Runtime - CLR. ","x":-465,"y":-4,"width":365,"height":184},
+		{"id":"87e72ee5d51cbbc2","type":"text","text":"Fortemente Tipada\n\nSignifica dizer que a linguagem obriga a especificar o tipo de dado da informação, trazendo uma menor liberdade e uma maior otimização para o desenvolvimento.","x":-80,"y":-4,"width":374,"height":184},
+		{"id":"5a11998c472f7f3a","type":"text","text":"Código Compilado\n\nRecebe um texto e converte em linguagem binária","x":314,"y":-4,"width":346,"height":184},
+		{"id":"a40b0a3d4517d728","type":"text","text":"IL\n\nO Runtime recebe um código e compila ele para IL. Podemos ter no mesmo projeto várias linguagens mas nunca no mesmo arquivo.","x":-465,"y":260,"width":365,"height":180},
+		{"id":"ff21c20d555e054c","type":"text","text":"Liguagem interpretadas\n\nLidos e interpretados por um interprete, em tempo real","x":314,"y":260,"width":346,"height":180},
+		{"id":"1c57fb10a4578e51","type":"text","text":"C#\n","x":59,"y":-200,"width":96,"height":63}
 	],
 	"edges":[
 		{"id":"fcb37b6b0d9b9187","fromNode":"1c57fb10a4578e51","fromSide":"bottom","toNode":"55a445fba7103e32","toSide":"top"},
 		{"id":"930600d21077a31a","fromNode":"1c57fb10a4578e51","fromSide":"bottom","toNode":"5a11998c472f7f3a","toSide":"top"},
 		{"id":"74a079ad4c04874e","fromNode":"1c57fb10a4578e51","fromSide":"bottom","toNode":"87e72ee5d51cbbc2","toSide":"top"},
 		{"id":"33adeb0f682089ce","fromNode":"55a445fba7103e32","fromSide":"bottom","toNode":"a40b0a3d4517d728","toSide":"top"},
-		{"id":"0184664f68ca6062","fromNode":"5a11998c472f7f3a","fromSide":"bottom","toNode":"a40b0a3d4517d728","toSide":"top"}
+		{"id":"31b086d7f3fd0419","fromNode":"5a11998c472f7f3a","fromSide":"bottom","toNode":"ff21c20d555e054c","toSide":"top"}
 	]
 }
