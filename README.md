@@ -1,19 +1,33 @@
-### Fundamentos no CSharp
+<h3>🟪 Curso – Fundamentos do C#</h3>
+<br/>
+<p>
+  Repositório com anotações organizadas, exercícios práticos e projetos guiados focados no domínio dos fundamentos do C# e .NET. 
+  
+  Ideal para iniciantes e para quem deseja consolidar seus conhecimentos em desenvolvimento backend.
+</p>
+<br/>
 
-1. [[1.0 - Linguagem e Compiladores]]
-2. [[2.0 - CSharp]]
-3. [[3.0 - Frameworks]]
-4. [[4.0 - .NET]]
-5. [[5.0 - Programação com CSharp]]
-6. [[6.0 - Mão na Massa - Criando uma Calculadora]]
-7. [[7.0 - Mão na Massa - Editor de Textos]]
-8. [[7.1 - Mão na Massa - Editor de Textos]]
-9. [[08.0 - Cronometro]]
-10. [[9.0 - Strings]]
-11. [[10.0 - Mão na Massa - Editor HTML]]
-12. [[11.0 - Datas]]
-13. [[12.0 - Moedas]]
-14. [[13.0 - Arrays]]
-15. [[14.0 - Exceptions]]
+<h4>Módulos</h4>
 
+- 🟣 1. Linguagem e Compiladores  
+- 🟣 2. Introdução ao C#  
+- 🟣 3. Frameworks  
+- 🟣 4. Visão Geral do .NET  
+- 🟣 5. Programação com C#  
+- 🟣 6. Mão na Massa: Criando uma Calculadora  
+- 🟣 7. Mão na Massa: Editor de Texto (v1)  
+- 🟣 8. Mão na Massa: Editor de Texto (v2)  
+- 🟣 9. Mão na Massa: Cronômetro  
+- 🟣 10. Trabalhando com Strings  
+- 🟣 11. Mão na Massa: Editor HTML  
+- 🟣 12. Datas  
+- 🟣 13. Moedas e Cultura  
+- 🟣 14. Arrays  
+- 🟣 15. Tratamento de Exceções  
 
+<h4>Tecnologias</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat&logo=csharp&logoColor=white" alt="CSharp" />  
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+</p>
